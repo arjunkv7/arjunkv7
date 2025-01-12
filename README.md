@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Arjun K V, a developer fueled by coffee ☕ and a passion for creating impactful solutions through code. Whether it's building powerful backend systems or crafting seamless user experiences, I thrive on solving complex problems and bringing ideas to life.<br><br>💻 Tech Stack: MERN (MongoDB, Express.js, React, Node.js), Next.js, PostgreSQL, TypeScript<br>🔥 Always exploring new tools and technologies to stay ahead of the curve.<br><br>When I'm not coding, you can find me brainstorming creative ideas, sharing knowledge, or diving into personal development. Let's build something amazing together! 🌟
+Hey there! 👋 I'm Arjun K V, a developer driven by a passion for creating impactful solutions through code. Whether it's building powerful backend systems or crafting seamless user experiences, I thrive on solving complex problems and bringing ideas to life.<br><br>💻 Tech Stack: MERN (MongoDB, Express.js, React, Node.js), Next.js, PostgreSQL, TypeScript<br>🔥 Always exploring new tools and technologies to stay ahead of the curve.<br><br>When I'm not coding, you can find me brainstorming creative ideas, sharing knowledge, or diving into personal development. Let's build something amazing together! 🌟
 
 
 ## 🌐 Socials:
